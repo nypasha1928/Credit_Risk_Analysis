@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-![image](https://github.com/nypasha1928/Credit_Risk_Analysis/blob/main/Credit%20_Risk_Analysis%20.png)
+![image](https://github.com/nypasha1928/Credit_Risk_Analysis/blob/main/Image/Credit%20_Risk_Analysis%20.png)
 
 ## Overview
 
@@ -9,7 +9,7 @@ In this project I am going to use machine learning to create prediction models f
 ## Results
     . BACKGROUNG INFO: 
  
- ![image](https://github.com/nypasha1928/Credit_Risk_Analysis/blob/main/Predicted%20Class.png)
+ ![image](https://github.com/nypasha1928/Credit_Risk_Analysis/blob/main/Image/Predicted%20Class.png)
     
     . Precision Score= (Predicted True/ (Predicted True + False Positive)
       -People that were positive, we want to know the likelihood of actually being positive.
@@ -18,7 +18,7 @@ In this project I am going to use machine learning to create prediction models f
       -Person knows has a good loan status, but wants to know what the loan officer will give.
       
   ## BalancedRandomForestClassifier
-  ![image]()
+  ![image](https://github.com/nypasha1928/Credit_Risk_Analysis/blob/main/Image/Balanced%20Random%20Forest%20Classifier.png)
   
     .Accuracy_score (r_squared) = .786
     .Precision = .99
