@@ -23,3 +23,56 @@ In this project I am going to use machine learning to create prediction models f
     .Accuracy_score (r_squared) = .786
     .Precision = .99
     .Recall =  .87
+    
+    
+## Ensemble AdaBoost Classifier
+
+![image]()
+   
+    .Accuracy_score (r_squared) = .91
+    .Precision = .99
+    .Recall =  .93
+    
+## Naive Random Oversampling w Logistic Regression
+
+![image]()
+
+    .Accuracy_score (r_squared) = .69
+    .Precision = .99
+    .Recall =  .66
+    
+## SMOTE Oversampling w/ Logistic Regression
+
+![image]()    
+    
+    .Accuracy_score (r_squared) = .66
+    .Precision = .99
+    .Recall =  .68
+    
+ ## ClusterCentroids Undersampling w/ Logistic Regression
+ 
+ ![image]()
+ 
+    .Accuracy_score (r_squared) = .60
+    .Precision = .99
+    .Recall =  .50
+    
+ ## Combination (Over and Under) Sampling w/ Logistic Regression
+ 
+ ![image]()
+     
+    .Accuracy_score (r_squared) = .67
+    .Precision = .99
+    .Recall =  .64
+    
+ ## Summary
+ 
+Overall, the best model that was generated to predict the unbalanced classification problem of credit risk is the Ensemble AdaBoost Classifier as well as the Balanced Random Forest Classifier due to their high precision, recall, and accuracy scores being near 1 which is what we want in this prediction problem. But I would recommend the Ensemble AdaBoost Classifier due to its higher overall scores for a classification prediction.
+ 
+    
+ 
+    
+
+    
+    
+    
