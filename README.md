@@ -27,7 +27,7 @@ In this project I am going to use machine learning to create prediction models f
     
 ## Ensemble AdaBoost Classifier
 
-![image]()
+![image](https://github.com/nypasha1928/Credit_Risk_Analysis/blob/main/Image/Ensemble%20AdaBoost%20Classifier.png)
    
     .Accuracy_score (r_squared) = .91
     .Precision = .99
@@ -35,7 +35,7 @@ In this project I am going to use machine learning to create prediction models f
     
 ## Naive Random Oversampling w Logistic Regression
 
-![image]()
+![image](https://github.com/nypasha1928/Credit_Risk_Analysis/blob/main/Image/Naive%20Random%20Oversampling%20w%20Logistic%20Regression.png)
 
     .Accuracy_score (r_squared) = .69
     .Precision = .99
@@ -43,7 +43,7 @@ In this project I am going to use machine learning to create prediction models f
     
 ## SMOTE Oversampling w/ Logistic Regression
 
-![image]()    
+![image](https://github.com/nypasha1928/Credit_Risk_Analysis/blob/main/Image/SMOTE%20Oversampling%20w%20Logistic%20Regression.png)    
     
     .Accuracy_score (r_squared) = .66
     .Precision = .99
@@ -51,7 +51,7 @@ In this project I am going to use machine learning to create prediction models f
     
  ## ClusterCentroids Undersampling w/ Logistic Regression
  
- ![image]()
+ ![image](https://github.com/nypasha1928/Credit_Risk_Analysis/blob/main/Image/ClusterCentroids%20Undersampling%20w%20Logistic%20Regression.png)
  
     .Accuracy_score (r_squared) = .60
     .Precision = .99
@@ -59,7 +59,7 @@ In this project I am going to use machine learning to create prediction models f
     
  ## Combination (Over and Under) Sampling w/ Logistic Regression
  
- ![image]()
+ ![image](https://github.com/nypasha1928/Credit_Risk_Analysis/blob/main/Image/Combination%20(Over%20and%20Under)%20Sampling%20w%20Logistic%20Regression.png)
      
     .Accuracy_score (r_squared) = .67
     .Precision = .99
